@@ -4,5 +4,5 @@ Grupo: 1108
 Ruiz Yahir
 Juarez Luis
 Fuentes Osvaldo 
-Pedro Felipe de jesus
+Pedro Felipe de Jesus
 Mariaca Enrique
